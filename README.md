@@ -1,6 +1,9 @@
 # File-Systems
 Persistent File System for UNIX based systems
 
+## Requirements
+FUSE - File System in User Space
+
 ## Installation commands
 $ sudo apt-get update && sudo apt-get install libfuse-dev
 
